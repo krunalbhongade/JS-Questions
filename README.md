@@ -6,4 +6,5 @@
 ![WhatsApp Image 2023-10-20 at 7 08 32 PM](https://github.com/krunalbhongade/JS-Questions/assets/126875304/f629196b-6b58-4f0a-a904-06d67031d12b)
 ![WhatsApp Image 2023-10-20 at 7 08 32 PM (1)](https://github.com/krunalbhongade/JS-Questions/assets/126875304/cc43099a-bb20-40df-9360-34d5a88b9714)
 ![WhatsApp Image 2023-10-20 at 7 08 31 PM](https://github.com/krunalbhongade/JS-Questions/assets/126875304/087b5838-e3e2-4a01-828b-621e628eb961)
+![WhatsApp Image 2023-10-20 at 7 08 31 PM (1)](https://github.com/krunalbhongade/JS-Questions/assets/126875304/7540686e-cd21-4daa-9447-6a203e948169)
 
