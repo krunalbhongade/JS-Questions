@@ -17,5 +17,6 @@
 ![WhatsApp Image 2023-10-20 at 7 08 31 PM (1)](https://github.com/krunalbhongade/JS-Questions/assets/126875304/7540686e-cd21-4daa-9447-6a203e948169)
 # Diff Javascript & java? First name of java? when it was invented? Es6  
 ![WhatsApp Image 2023-10-20 at 7 08 31 PM (2)](https://github.com/krunalbhongade/JS-Questions/assets/126875304/aa3e4646-cccb-4ffa-8fa1-0cb1d3df7750)
+# Named function,Anonymous function ,Differentiate between javascript & jscript
 ![WhatsApp Image 2023-10-20 at 7 08 30 PM](https://github.com/krunalbhongade/JS-Questions/assets/126875304/6af27316-5cb6-442c-9c99-7c560d6d3027)
 
